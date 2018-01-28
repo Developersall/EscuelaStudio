@@ -1,0 +1,9 @@
+com\opencodez\util\ApplicationLogger.class
+com\opencodez\CustomizationBean.class
+com\opencodez\util\email\EmailTemplate.class
+com\opencodez\util\Constants.class
+com\opencodez\MailDemoApplication.class
+com\opencodez\util\email\EmailService.class
+com\opencodez\util\AppUtil.class
+com\opencodez\util\email\Email.class
+com\opencodez\AppMailSender.class
